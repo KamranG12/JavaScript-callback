@@ -1,0 +1,21 @@
+#circle{
+   width: 100px;
+   height: 100px;
+   margin-left: 25px;
+   margin-top: 25px;
+   background-color: mediumpurple;
+   border-radius: 100%;
+   float: left;
+   cursor: pointer;
+}
+
+#img{
+   width: 150px;
+   height: 150px;
+   margin-left: 100px;
+   margin-top: 25px;
+   background-color: mediumpurple;
+   float: left;
+   /*border-style: solid;
+   border-color: black;*/
+}
